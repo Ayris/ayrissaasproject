@@ -1,3 +1,15 @@
+/* Users show page styles*/
+.user-show-avatar {
+    height: 128px;
+    width: 128px;
+}
+
+/* Users index page styles */
+.user-index-avatar {
+    border-radius: 50%;
+}
+ 
+/* Users job title icon */    
 .job_title_icon {
     width: 30px;
     height: 30px;
@@ -25,4 +37,8 @@
 .well.contact-info {
     background-color: #5bc0de;
     border-color: #46b8da;
+}
+
+.well.white-bg {
+    background-color: white;
 }
